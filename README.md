@@ -1,6 +1,6 @@
-# Domains Speed meter for Nginx or Apache
+# Domains Speed meter for Nginx or Apache to Zabbix
 
-Collect data of send/receive speed to all domains at host.
+Script to zabbix 1.8 to collect data of send/receive speed to all domains at host.
 
 ## Install
 
